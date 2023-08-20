@@ -1,0 +1,6 @@
+C:\Users\frole\OneDrive\Escritorio\Own Projects\dotnet-web-apis\MagicVilla_API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\MagicVilla_API.csproj.AssemblyReference.cache
+C:\Users\frole\OneDrive\Escritorio\Own Projects\dotnet-web-apis\MagicVilla_API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\MagicVilla_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frole\OneDrive\Escritorio\Own Projects\dotnet-web-apis\MagicVilla_API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\MagicVilla_API.AssemblyInfoInputs.cache
+C:\Users\frole\OneDrive\Escritorio\Own Projects\dotnet-web-apis\MagicVilla_API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\MagicVilla_API.AssemblyInfo.cs
+C:\Users\frole\OneDrive\Escritorio\Own Projects\dotnet-web-apis\MagicVilla_API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\MagicVilla_API.csproj.CoreCompileInputs.cache
+C:\Users\frole\OneDrive\Escritorio\Own Projects\dotnet-web-apis\MagicVilla_API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\MagicVilla_API.MvcApplicationPartsAssemblyInfo.cache
